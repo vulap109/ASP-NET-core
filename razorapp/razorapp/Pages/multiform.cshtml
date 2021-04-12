@@ -1,0 +1,25 @@
+﻿@page
+@model razorapp.Pages.multiformModel
+@{
+    ViewData["Title"] = "Multiform";
+}
+
+<div class="row">
+    <div class="col-sm">
+        <form asp-page-handler="edit" method="post">
+            <button class="btn btn-outline-primary">Edit</button>
+        </form>
+    </div>
+    <div class="col-sm">
+        <form asp-page-handler="delete" method="post">
+            <button class="btn btn-outline-success">Delete</button>
+        </form>
+    </div>
+    <div class="col-sm">
+        <form asp-page-handler="view" method="post">
+            <button class="btn btn-outline-dark">View</button>
+        </form>
+    </div>
+</div>
+<hr />
+<h3 class="clearfix">@Model.mesage</h3>

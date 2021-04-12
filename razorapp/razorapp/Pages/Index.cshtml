@@ -1,0 +1,36 @@
+﻿@page
+@model razorapp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@{ 
+    void nhap()
+    {
+        int a, b;
+    }
+}
+<div class="text-center">
+    @*<h1 class="display-4">@Model.SayGoodbye()</h1>
+    <p>F name: @Model.FirstName</p>
+    <p>last name:  @Model.LastName</p>
+    <input name="soa" type="text" />*@
+
+    <h3>@Model.message</h3>
+    <form method="post">
+        <p><button class="btn-danger" type="submit">send post request</button></p>
+    </form>
+        <p><a href="/" class="btn-light">send get request</a></p>
+
+</div>
+
+@{ 
+    void hello(string name)
+    {
+        <p> xin chao ban @name</p>
+    }
+    int cong(int a, int b)
+    {
+        int kq = a + b;
+        return kq;
+    }
+}
