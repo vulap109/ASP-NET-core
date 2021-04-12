@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VuquangLAp\\ASP .NET core\\razorapp\\razorapp\\razorapp.csproj",
+      "projectUniqueName": "D:\\VuquangLAp\\ASP .NET-core\\razorapp\\razorapp\\razorapp.csproj",
       "projectName": "razorapp",
-      "projectPath": "D:\\VuquangLAp\\ASP .NET core\\razorapp\\razorapp\\razorapp.csproj",
+      "projectPath": "D:\\VuquangLAp\\ASP .NET-core\\razorapp\\razorapp\\razorapp.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\VuquangLAp\\ASP .NET core\\razorapp\\razorapp\\obj\\",
+      "outputPath": "D:\\VuquangLAp\\ASP .NET-core\\razorapp\\razorapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
