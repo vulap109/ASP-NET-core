@@ -1,0 +1,13 @@
+﻿@page "/solve/{a:double}_{b:double}_{c:double}"
+@model razorapp.Pages.EquationModel
+@{
+    ViewData["Title"] = "Solve";
+    var a = Model.Coefficients.a;
+    var b = Model.Coefficients.b;
+    var c = Model.Coefficients.c;
+}
+
+<h1>Solve equation</h1>
+<h3>@(a)x<sup>2</sup> @(b<0?"":"+") @(b)x @(c<0?"":"+") @c = 0</h3>
+<p><strong>X1 = @Model.Solutions.x1</strong></p>
+<p><strong>X2 = @Model.Solutions.x2</strong></p>

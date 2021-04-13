@@ -1,0 +1,48 @@
+﻿@page
+@model razorFormControl.Pages.checkboxModel
+
+@{
+    ViewData["Title"] = "Checkbox";
+}
+
+@if (Request.Method.ToUpper() == "GET")
+{
+    <h3>Which languages can you speak?</h3>
+    <form method="post">
+        <!-- Default unchecked -->
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="Arabic" name="languages" value="Arabic">
+            <label class="custom-control-label" for="Arabic">Arabic</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="Chinese" name="languages" value="Chinese">
+            <label class="custom-control-label" for="Chinese">Chinese</label>
+        </div>
+        <!-- Default checked -->
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="English" name="languages" value="English" checked>
+            <label class="custom-control-label" for="English">English</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="French" name="languages" value="French">
+            <label class="custom-control-label" for="French">French</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="Russian" name="languages" value="Russian">
+            <label class="custom-control-label" for="Russian">Russian</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="Spanish" name="languages" value="Spanish">
+            <label class="custom-control-label" for="Spanish">Spanish</label>
+        </div>
+        <div>
+            <button class="btn btn-success" type="submit">Submit</button>
+            <button class="btn btn-secondary" type="reset">Clear</button>
+        </div>
+    </form>
+}
+else if (Request.Method.ToUpper() == "POST")
+{
+    <h3 class="alert-success">Great! You can speak: @foreach (var l in Model.languages)
+    {<b>@l</b>}</h3>
+}

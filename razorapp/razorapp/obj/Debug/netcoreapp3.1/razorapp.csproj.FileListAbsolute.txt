@@ -37,3 +37,43 @@ D:\VuquangLAp\ASP .NET core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.c
 D:\VuquangLAp\ASP .NET core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.csprojAssemblyReference.cache
 D:\VuquangLAp\ASP .NET core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\multiform.cshtml.g.cs
 D:\VuquangLAp\ASP .NET core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\multiaction.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.exe
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.deps.json
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.runtimeconfig.json
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.runtimeconfig.dev.json
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.dll
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.pdb
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.Views.dll
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\bin\Debug\netcoreapp3.1\razorapp.Views.pdb
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.csprojAssemblyReference.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.AssemblyInfoInputs.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.AssemblyInfo.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.csproj.CoreCompileInputs.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.MvcApplicationPartsAssemblyInfo.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.RazorAssemblyInfo.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.RazorAssemblyInfo.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\staticwebassets\razorapp.StaticWebAssets.Manifest.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\staticwebassets\razorapp.StaticWebAssets.xml
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\razorapp.styles.css
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.TagHelpers.input.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.TagHelpers.output.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.RazorCoreGenerate.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\Equation.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\multiaction.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\multiform.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.RazorTargetAssemblyInfo.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.RazorTargetAssemblyInfo.cs
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.Views.pdb
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.dll
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.pdb
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.genruntimeconfig.cache
+D:\VuquangLAp\ASP .NET-core\razorapp\razorapp\obj\Debug\netcoreapp3.1\razorapp.csproj.CopyComplete

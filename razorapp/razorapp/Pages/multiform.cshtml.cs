@@ -14,7 +14,6 @@ namespace razorapp.Pages
         public void OnGet()
         {
         }
-
         public void OnPost()
         {
             mesage = "form Posted";
