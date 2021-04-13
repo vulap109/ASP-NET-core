@@ -1,0 +1,9 @@
+﻿@page "/register/{fullname?}/{email?}/{age:int?}"
+@model modelBinding.Pages.routeBindingModel
+@{
+}
+@{
+    ViewData["Title"] = "RouteBinding";
+}
+<a href="/register/Donald%20Trump/trump@gmail.com/18">Get binding</a>
+<strong>@Model.Message</strong>
